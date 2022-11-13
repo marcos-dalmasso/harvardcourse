@@ -4,5 +4,5 @@ name = input()
 print ('Hello ' + name +'!')
 print ('where are you from ' + name + '?')
 city = input()
-    
+print ( city + 'it is a nice place')   
 
